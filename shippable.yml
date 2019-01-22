@@ -15,4 +15,4 @@ build:
     
   ci:
     - ls
-    - pwd
+    - pwd 
